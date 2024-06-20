@@ -54,7 +54,7 @@ Confusion matrix for sub-category
 ![Sub-category](/images/conf-sub.png)
 
 ## Deployment
-The final model was saved in `.h5` and the API ran in Flask Python. The Flask app later deployed in cloud using Cloud Run.
+The final model was saved in `.h5` and the API ran in Flask Python. The Flask app later deployed in cloud using Docker and Cloud Run.
 
 ### Requirements
 ```
